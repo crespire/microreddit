@@ -1,24 +1,5 @@
-# README
+# Microreddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This introductory Rails lesson from The Odin Project was about setting up Models, writing some migrations and also figuring out associations in Rails.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The application has no front end, but the associations work in Rails console.
